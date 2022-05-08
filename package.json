@@ -16,13 +16,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "3.0.0",
+    "@lekoarts/gatsby-theme-cara": "3.0.7",
     "gatsby": "4.0.0",
     "gatsby-plugin-gatsby-cloud": "4.0.0",
-    "gatsby-plugin-manifest": "4.0.0",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.25",
+    "gatsby-plugin-manifest": "4.13.0",
+    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.27",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "18.1.0"
   },
   "devDependencies": {
     "cross-env": "7.0.3"
