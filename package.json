@@ -18,7 +18,7 @@
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "3.0.7",
     "gatsby": "4.0.0",
-    "gatsby-plugin-gatsby-cloud": "4.0.0",
+    "gatsby-plugin-gatsby-cloud": "4.13.0",
     "gatsby-plugin-manifest": "4.13.0",
     "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.27",
     "react": "18.1.0",
